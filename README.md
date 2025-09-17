@@ -1,2 +1,3 @@
 # AI-Chatbot
-AI-CHATBOT
+Developed an AI-powered chatbot using Python, Hugging Face DialoGPT, and PyTorch. Implemented conversational memory, real-time response generation, and text tokenization.
+and we feature improvements i'd like to add memory or a yui for better interaction.
